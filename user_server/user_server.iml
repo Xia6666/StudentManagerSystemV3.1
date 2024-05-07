@@ -7,5 +7,16 @@
     </content>
     <orderEntry type="jdk" jdkName="openjdk-21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="logback-classic-1.2.3">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/logback-classic-1.2.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/logback-core-1.2.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.7.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

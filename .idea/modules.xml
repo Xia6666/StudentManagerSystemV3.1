@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StudentSystemManagerV3.0.iml" filepath="$PROJECT_DIR$/StudentSystemManagerV3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stu_server/stu_server.iml" filepath="$PROJECT_DIR$/stu_server/stu_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_server/user_server.iml" filepath="$PROJECT_DIR$/user_server/user_server.iml" />
     </modules>
   </component>
 </project>
